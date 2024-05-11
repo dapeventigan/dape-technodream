@@ -1,0 +1,23 @@
+footer {
+  width: 65%;
+  margin: 0 auto;
+  display: flex;
+  margin-top: 1rem;
+  justify-content: space-between;
+  font-size: 12px;
+}
+
+.footer-links{
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.footer-links > a {
+    font-weight: 600;
+    color: rgb(53, 53, 53);
+}
+
+.footer-links > a:hover {
+    color: var(--color-primary)
+}
