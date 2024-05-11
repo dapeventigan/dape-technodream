@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dape-technodream/static/css/main.b96210bb.css",
+    "main.js": "/dape-technodream/static/js/main.732d381c.js",
+    "static/media/carousel.jpg": "/dape-technodream/static/media/carousel.a73ba016b385cbd88bfd.jpg",
+    "static/media/diagonal-lines.jpg": "/dape-technodream/static/media/diagonal-lines.da4b822fa9325e891179.jpg",
+    "static/media/general.jpg": "/dape-technodream/static/media/general.a96621cbd1676c2b7589.jpg",
+    "static/media/healtcare.jpg": "/dape-technodream/static/media/healtcare.70d268978ceb77a03b65.jpg",
+    "static/media/logo.jpg": "/dape-technodream/static/media/logo.2d03697c2df8fcbc9734.jpg",
+    "static/media/retail.jpg": "/dape-technodream/static/media/retail.546e16a59b7884829035.jpg",
+    "index.html": "/dape-technodream/index.html",
+    "main.b96210bb.css.map": "/dape-technodream/static/css/main.b96210bb.css.map",
+    "main.732d381c.js.map": "/dape-technodream/static/js/main.732d381c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b96210bb.css",
+    "static/js/main.732d381c.js"
+  ]
+}
