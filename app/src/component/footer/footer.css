@@ -52,7 +52,15 @@ footer {
   .footer-links > a,
   footer > p,
   footer > div > p {
-    font-size: 10px;
+    font-size: 12px;
     text-align: center;
+  }
+}
+
+@media screen and (max-width: 330px) {
+  .footer-links > a,
+  footer > p,
+  footer > div > p {
+    font-size: 10px;
   }
 }

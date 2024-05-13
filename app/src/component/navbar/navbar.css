@@ -153,7 +153,14 @@ nav {
   }
 
   .nav-contact > div > p {
-    font-size: 8px;
+    font-size: 10px;
     text-align: center;
+  }
+}
+
+
+@media screen and (max-width: 330px) {
+  .nav-contact > div > p {
+    font-size: 8px;
   }
 }
