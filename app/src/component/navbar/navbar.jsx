@@ -17,20 +17,20 @@ const Navbar = () => {
       <div className="nav-content">
         <div className="nav-contact">
           <div>
-            <FaHouseChimney color="#146b30"/>
+            <FaHouseChimney color="#146b30" />
             <p>616 S. Jackson Amarillo, TX 79101</p>
           </div>
 
           <p>|</p>
 
           <div>
-            <MdEmail color="#146b30"/>
+            <MdEmail color="#146b30" />
             <p>info@kellywood.com</p>
           </div>
           <p>|</p>
 
           <div>
-            <TbPhoneFilled color="#146b30"/>
+            <TbPhoneFilled color="#146b30" />
             <p>806.379.9696</p>
           </div>
         </div>

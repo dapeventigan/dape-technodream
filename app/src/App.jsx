@@ -50,7 +50,7 @@ function App() {
                 Design/Build, Construction Management, and Fast Track
                 construction.
               </p>
-              <a href="" className="span-colored">
+              <a href="/#" className="span-colored">
                 read more about us ▶
               </a>
             </div>

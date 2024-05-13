@@ -7,15 +7,15 @@ const Footer = () => {
     <footer>
       <div>
         <div className="footer-links">
-          <a href="">Home</a>
+          <a href="/#">Home</a>
           •
-          <a href="">About Us</a>
+          <a href="/#">About Us</a>
           •
-          <a href="">Services</a>
+          <a href="/#">Services</a>
           •
-          <a href="">Employment</a>
+          <a href="/#">Employment</a>
           •
-          <a href="">Contact Us</a>
+          <a href="/#">Contact Us</a>
         </div>
         <p style={{color: "rgb(68, 68, 68)"}}>Copyright © 2013.Kelly Wood Builder. All Right Reserved</p>
       </div>

@@ -28,6 +28,7 @@ nav {
   display: flex;
   align-items: center;
   justify-content: space-evenly;
+  margin-right: 0.5rem;
 }
 
 .nav-contact > div {
@@ -37,8 +38,8 @@ nav {
 }
 
 .nav-contact > div > p {
-font-size: 12px;
-font-weight: 600;
+  font-size: 12px;
+  font-weight: 600;
 }
 
 .nav-links {
@@ -80,4 +81,79 @@ font-weight: 600;
   box-shadow: rgba(255, 255, 255, 0.2) 0 3px 15px inset,
     rgba(0, 0, 0, 0.1) 0 3px 5px, rgba(0, 0, 0, 0.1) 0 10px 13px;
   background-color: #5dce12;
+}
+
+.sidebar {
+  display: none;
+}
+
+@media screen and (max-width: 1250px) {
+  .nav-contact > div > p {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 1240px) {
+  .nav-button {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 1116px) {
+  .nav-button {
+    font-size: 10px;
+  }
+}
+
+@media screen and (max-width: 685px) {
+  nav {
+    flex-direction: column;
+    height: auto;
+    gap: 2rem;
+  }
+
+  .nav-logo {
+    flex: auto;
+  }
+
+  .nav-logo > img {
+    width: 40%;
+    height: auto;
+  }
+
+  .nav-content {
+    gap: 1rem;
+    flex: auto;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  nav {
+    gap: 1rem;
+  }
+
+  .nav-logo > img {
+    width: 60%;
+    height: auto;
+  }
+
+  .nav-links {
+    justify-content: center;
+    gap: 0.1rem;
+  }
+
+  .nav-contact {
+    gap: 0.5rem;
+  }
+
+  .nav-contact > div {
+    width: 100%;
+    flex-direction: column;
+    gap: 0rem;
+  }
+
+  .nav-contact > div > p {
+    font-size: 8px;
+    text-align: center;
+  }
 }
