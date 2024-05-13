@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dape-technodream/static/css/main.b96210bb.css",
-    "main.js": "/dape-technodream/static/js/main.732d381c.js",
+    "main.css": "/dape-technodream/static/css/main.c99ce1c3.css",
+    "main.js": "/dape-technodream/static/js/main.3d63a103.js",
     "static/media/carousel.jpg": "/dape-technodream/static/media/carousel.a73ba016b385cbd88bfd.jpg",
     "static/media/diagonal-lines.jpg": "/dape-technodream/static/media/diagonal-lines.da4b822fa9325e891179.jpg",
     "static/media/general.jpg": "/dape-technodream/static/media/general.a96621cbd1676c2b7589.jpg",
@@ -9,11 +9,11 @@
     "static/media/logo.jpg": "/dape-technodream/static/media/logo.2d03697c2df8fcbc9734.jpg",
     "static/media/retail.jpg": "/dape-technodream/static/media/retail.546e16a59b7884829035.jpg",
     "index.html": "/dape-technodream/index.html",
-    "main.b96210bb.css.map": "/dape-technodream/static/css/main.b96210bb.css.map",
-    "main.732d381c.js.map": "/dape-technodream/static/js/main.732d381c.js.map"
+    "main.c99ce1c3.css.map": "/dape-technodream/static/css/main.c99ce1c3.css.map",
+    "main.3d63a103.js.map": "/dape-technodream/static/js/main.3d63a103.js.map"
   },
   "entrypoints": [
-    "static/css/main.b96210bb.css",
-    "static/js/main.732d381c.js"
+    "static/css/main.c99ce1c3.css",
+    "static/js/main.3d63a103.js"
   ]
 }
